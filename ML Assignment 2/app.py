@@ -32,8 +32,7 @@ model_choice = st.selectbox(
         "Decision Tree",
         "KNN",
         "Naive Bayes",
-        "Random Forest",
-        "XGBoost"
+        "Random Forest"
     ]
 )
 
